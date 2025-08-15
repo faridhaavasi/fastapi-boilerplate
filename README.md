@@ -39,7 +39,7 @@ Run the application using Docker Compose from the **root directory**:
 
 ```bash
 docker compose up --build -d
-
+```
 
 ---
 

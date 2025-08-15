@@ -9,7 +9,7 @@ A ready-to-use template for quickly starting new FastAPI projects.
 ### 1 — Clone the Repository
 ```bash
 git clone https://github.com/faridhaavasi/fastapi-boilerplate.git
-cd fastapi-boilerplate
+and cut all file in project
 ```
 
 ### 2 — Create `.env` File

@@ -34,4 +34,16 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### 4 — Run With Docker Compose
+Run the application using Docker Compose from the **root directory**:
+
+```bash
+docker compose up --build -d
+
+
+---
+
+## ⭐ Support
+
+If you find this FastAPI boilerplate useful, please give it a ⭐ on GitHub! Your support helps maintain and improve this project.
 

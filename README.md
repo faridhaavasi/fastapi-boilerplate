@@ -19,3 +19,12 @@ Create a `.env` file in the **root directory** of the project (where `Dockerfile
 SQLALCHEMY_DATABASE_URL=postgresql+psycopg2://user:password@localhost:5432/db_name
 JWT_SECRET_KEY=supersecretkey
 ```
+### 3 — Create Python Virtual Environment
+
+#### **Linux / Mac**
+```bash
+python3 -m venv venv
+source venv/bin/activate
+or
+venvScripts\activate
+pip install -r requirements.txt
